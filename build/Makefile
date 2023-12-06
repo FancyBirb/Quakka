@@ -129,71 +129,6 @@ Quakka/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Quakka.dir/build.make CMakeFiles/Quakka.dir/build
 .PHONY : Quakka/fast
 
-#=============================================================================
-# Target rules for targets named sdl_headers_copy
-
-# Build rule for target.
-sdl_headers_copy: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 sdl_headers_copy
-.PHONY : sdl_headers_copy
-
-# fast build rule for target.
-sdl_headers_copy/fast:
-	$(MAKE) $(MAKESILENT) -f lib/SDL/CMakeFiles/sdl_headers_copy.dir/build.make lib/SDL/CMakeFiles/sdl_headers_copy.dir/build
-.PHONY : sdl_headers_copy/fast
-
-#=============================================================================
-# Target rules for targets named SDL2main
-
-# Build rule for target.
-SDL2main: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SDL2main
-.PHONY : SDL2main
-
-# fast build rule for target.
-SDL2main/fast:
-	$(MAKE) $(MAKESILENT) -f lib/SDL/CMakeFiles/SDL2main.dir/build.make lib/SDL/CMakeFiles/SDL2main.dir/build
-.PHONY : SDL2main/fast
-
-#=============================================================================
-# Target rules for targets named SDL2
-
-# Build rule for target.
-SDL2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SDL2
-.PHONY : SDL2
-
-# fast build rule for target.
-SDL2/fast:
-	$(MAKE) $(MAKESILENT) -f lib/SDL/CMakeFiles/SDL2.dir/build.make lib/SDL/CMakeFiles/SDL2.dir/build
-.PHONY : SDL2/fast
-
-#=============================================================================
-# Target rules for targets named SDL2_test
-
-# Build rule for target.
-SDL2_test: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SDL2_test
-.PHONY : SDL2_test
-
-# fast build rule for target.
-SDL2_test/fast:
-	$(MAKE) $(MAKESILENT) -f lib/SDL/CMakeFiles/SDL2_test.dir/build.make lib/SDL/CMakeFiles/SDL2_test.dir/build
-.PHONY : SDL2_test/fast
-
-#=============================================================================
-# Target rules for targets named uninstall
-
-# Build rule for target.
-uninstall: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 uninstall
-.PHONY : uninstall
-
-# fast build rule for target.
-uninstall/fast:
-	$(MAKE) $(MAKESILENT) -f lib/SDL/CMakeFiles/uninstall.dir/build.make lib/SDL/CMakeFiles/uninstall.dir/build
-.PHONY : uninstall/fast
-
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -250,12 +185,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... sdl_headers_copy"
-	@echo "... uninstall"
 	@echo "... Quakka"
-	@echo "... SDL2"
-	@echo "... SDL2_test"
-	@echo "... SDL2main"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

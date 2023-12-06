@@ -108,6 +108,7 @@ Quakka_EXTERNAL_OBJECTS =
 /Users/domenic/Documents/C++/Vulkan/Quakka/bin/Quakka: CMakeFiles/Quakka.dir/src/main.cpp.o
 /Users/domenic/Documents/C++/Vulkan/Quakka/bin/Quakka: CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o
 /Users/domenic/Documents/C++/Vulkan/Quakka/bin/Quakka: CMakeFiles/Quakka.dir/build.make
+/Users/domenic/Documents/C++/Vulkan/Quakka/bin/Quakka: /usr/local/lib/libSDL2.dylib
 /Users/domenic/Documents/C++/Vulkan/Quakka/bin/Quakka: /usr/local/lib/libvulkan.dylib
 /Users/domenic/Documents/C++/Vulkan/Quakka/bin/Quakka: /usr/local/lib/libvulkan.dylib
 /Users/domenic/Documents/C++/Vulkan/Quakka/bin/Quakka: /usr/local/lib/libvulkan.dylib

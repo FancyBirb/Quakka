@@ -346,6 +346,9 @@ SDL2_DISABLE_UNINSTALL:BOOL=OFF
 //Value Computed by CMake
 SDL2_IS_TOP_LEVEL:STATIC=OFF
 
+//Path to a library.
+SDL2_LIBRARY:FILEPATH=SDL2_LIBRARY-NOTFOUND
+
 //Dependencies for the target
 SDL2_LIB_DEPENDS:STATIC=general;m;general;iconv;general;-Wl,-framework,CoreVideo;general;-Wl,-framework,Cocoa;general;-Wl,-framework,IOKit;general;-Wl,-framework,ForceFeedback;general;-Wl,-framework,Carbon;general;-Wl,-framework,CoreAudio;general;-Wl,-framework,AudioToolbox;general;-Wl,-framework,AVFoundation;general;-Wl,-framework,Foundation;general;-Wl,-weak_framework,GameController;general;-Wl,-weak_framework,Metal;general;-Wl,-weak_framework,QuartzCore;general;-Wl,-weak_framework,CoreHaptics;general;-Wl,-undefined,error;general;-Wl,-compatibility_version,2501.0.0;general;-Wl,-current_version,2501.0.0;
 
@@ -804,7 +807,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=2
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJC_COMPILER

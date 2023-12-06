@@ -804,58 +804,57 @@ CMakeFiles/Quakka.dir/src/main.cpp.o: /Users/domenic/Documents/C++/Vulkan/Quakka
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_assert.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_atomic.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_audio.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_blendmode.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_clipboard.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_config.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_config_macosx.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_cpuinfo.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_endian.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_error.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_events.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_filesystem.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_gamecontroller.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_gesture.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_guid.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_haptic.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_hidapi.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_hints.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_joystick.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_keyboard.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_keycode.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_loadso.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_locale.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_log.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_main.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_messagebox.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_metal.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_misc.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_mouse.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_mutex.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_pixels.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_platform.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_power.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_quit.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_rect.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_render.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_rwops.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_scancode.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_sensor.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_shape.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_stdinc.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_surface.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_system.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_thread.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_timer.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_touch.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_version.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_video.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/begin_code.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/close_code.h \
   /Users/domenic/Documents/C++/Vulkan/Quakka/src/vk_base/vk_base.h \
+  /opt/homebrew/include/SDL2/SDL.h \
+  /opt/homebrew/include/SDL2/SDL_assert.h \
+  /opt/homebrew/include/SDL2/SDL_atomic.h \
+  /opt/homebrew/include/SDL2/SDL_audio.h \
+  /opt/homebrew/include/SDL2/SDL_blendmode.h \
+  /opt/homebrew/include/SDL2/SDL_clipboard.h \
+  /opt/homebrew/include/SDL2/SDL_config.h \
+  /opt/homebrew/include/SDL2/SDL_cpuinfo.h \
+  /opt/homebrew/include/SDL2/SDL_endian.h \
+  /opt/homebrew/include/SDL2/SDL_error.h \
+  /opt/homebrew/include/SDL2/SDL_events.h \
+  /opt/homebrew/include/SDL2/SDL_filesystem.h \
+  /opt/homebrew/include/SDL2/SDL_gamecontroller.h \
+  /opt/homebrew/include/SDL2/SDL_gesture.h \
+  /opt/homebrew/include/SDL2/SDL_guid.h \
+  /opt/homebrew/include/SDL2/SDL_haptic.h \
+  /opt/homebrew/include/SDL2/SDL_hidapi.h \
+  /opt/homebrew/include/SDL2/SDL_hints.h \
+  /opt/homebrew/include/SDL2/SDL_joystick.h \
+  /opt/homebrew/include/SDL2/SDL_keyboard.h \
+  /opt/homebrew/include/SDL2/SDL_keycode.h \
+  /opt/homebrew/include/SDL2/SDL_loadso.h \
+  /opt/homebrew/include/SDL2/SDL_locale.h \
+  /opt/homebrew/include/SDL2/SDL_log.h \
+  /opt/homebrew/include/SDL2/SDL_main.h \
+  /opt/homebrew/include/SDL2/SDL_messagebox.h \
+  /opt/homebrew/include/SDL2/SDL_metal.h \
+  /opt/homebrew/include/SDL2/SDL_misc.h \
+  /opt/homebrew/include/SDL2/SDL_mouse.h \
+  /opt/homebrew/include/SDL2/SDL_mutex.h \
+  /opt/homebrew/include/SDL2/SDL_pixels.h \
+  /opt/homebrew/include/SDL2/SDL_platform.h \
+  /opt/homebrew/include/SDL2/SDL_power.h \
+  /opt/homebrew/include/SDL2/SDL_quit.h \
+  /opt/homebrew/include/SDL2/SDL_rect.h \
+  /opt/homebrew/include/SDL2/SDL_render.h \
+  /opt/homebrew/include/SDL2/SDL_rwops.h \
+  /opt/homebrew/include/SDL2/SDL_scancode.h \
+  /opt/homebrew/include/SDL2/SDL_sensor.h \
+  /opt/homebrew/include/SDL2/SDL_shape.h \
+  /opt/homebrew/include/SDL2/SDL_stdinc.h \
+  /opt/homebrew/include/SDL2/SDL_surface.h \
+  /opt/homebrew/include/SDL2/SDL_system.h \
+  /opt/homebrew/include/SDL2/SDL_thread.h \
+  /opt/homebrew/include/SDL2/SDL_timer.h \
+  /opt/homebrew/include/SDL2/SDL_touch.h \
+  /opt/homebrew/include/SDL2/SDL_version.h \
+  /opt/homebrew/include/SDL2/SDL_video.h \
+  /opt/homebrew/include/SDL2/begin_code.h \
+  /opt/homebrew/include/SDL2/close_code.h \
   /usr/local/include/vk_video/vulkan_video_codec_h264std.h \
   /usr/local/include/vk_video/vulkan_video_codec_h264std_decode.h \
   /usr/local/include/vk_video/vulkan_video_codec_h265std.h \
@@ -1678,73 +1677,71 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /usr/local/include/vk_video/vulkan_video_codec_h264std_decode.h:
 
+/opt/homebrew/include/SDL2/begin_code.h:
+
+/opt/homebrew/include/SDL2/SDL_video.h:
+
+/opt/homebrew/include/SDL2/SDL_touch.h:
+
+/opt/homebrew/include/SDL2/SDL_timer.h:
+
+/opt/homebrew/include/SDL2/SDL_thread.h:
+
+/opt/homebrew/include/SDL2/SDL_system.h:
+
+/opt/homebrew/include/SDL2/SDL_surface.h:
+
+/opt/homebrew/include/SDL2/SDL_shape.h:
+
+/opt/homebrew/include/SDL2/SDL_sensor.h:
+
+/opt/homebrew/include/SDL2/SDL_rwops.h:
+
+/opt/homebrew/include/SDL2/SDL_quit.h:
+
+/opt/homebrew/include/SDL2/SDL_platform.h:
+
+/opt/homebrew/include/SDL2/SDL_pixels.h:
+
+/opt/homebrew/include/SDL2/SDL_mouse.h:
+
+/opt/homebrew/include/SDL2/SDL_misc.h:
+
+/opt/homebrew/include/SDL2/SDL_messagebox.h:
+
+/opt/homebrew/include/SDL2/SDL_main.h:
+
+/opt/homebrew/include/SDL2/SDL_locale.h:
+
+/opt/homebrew/include/SDL2/SDL_hidapi.h:
+
+/opt/homebrew/include/SDL2/SDL_haptic.h:
+
+/opt/homebrew/include/SDL2/SDL_gesture.h:
+
+/opt/homebrew/include/SDL2/SDL_error.h:
+
+/opt/homebrew/include/SDL2/SDL_scancode.h:
+
+/opt/homebrew/include/SDL2/SDL_endian.h:
+
+/opt/homebrew/include/SDL2/SDL_cpuinfo.h:
+
+/opt/homebrew/include/SDL2/SDL_log.h:
+
+/opt/homebrew/include/SDL2/SDL_clipboard.h:
+
+/opt/homebrew/include/SDL2/SDL_blendmode.h:
+
+/opt/homebrew/include/SDL2/SDL_audio.h:
+
+/opt/homebrew/include/SDL2/SDL_atomic.h:
+
+/opt/homebrew/include/SDL2/SDL_assert.h:
+
+/opt/homebrew/include/SDL2/SDL.h:
+
 /Users/domenic/Documents/C++/Vulkan/Quakka/src/vk_base/vk_base.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/begin_code.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_version.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_timer.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_system.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_stdinc.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_sensor.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_scancode.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_rwops.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_render.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_quit.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_power.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_platform.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_pixels.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_mutex.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_misc.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_messagebox.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_main.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_metal.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_loadso.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_keyboard.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_joystick.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_hints.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_hidapi.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_guid.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_gesture.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_gamecontroller.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_events.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_error.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_endian.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_clipboard.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_blendmode.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_audio.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_assert.h:
 
 /usr/local/include/vk_video/vulkan_video_codec_h264std.h:
 
@@ -1836,8 +1833,6 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/sys/_types/_ino_t.h:
 
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_locale.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/ranges_move_backward.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/sys/_types/_in_port_t.h:
@@ -1872,13 +1867,15 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/sys/wait.h:
 
+/opt/homebrew/include/SDL2/SDL_config.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/sys/_types/_caddr_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__bit/bit_log2.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/sys/_pthread/_pthread_rwlockattr_t.h:
 
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_thread.h:
+/opt/homebrew/include/SDL2/SDL_keycode.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/sys/_pthread/_pthread_once_t.h:
 
@@ -1902,6 +1899,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/xlocale/_stdlib.h:
 
+/opt/homebrew/include/SDL2/SDL_hints.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__ios/fpos.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/sys/_types/_fd_zero.h:
@@ -1917,8 +1916,6 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__iterator/common_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/pthread.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/malloc/_malloc.h:
 
@@ -2074,6 +2071,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__utility/to_underlying.h:
 
+/opt/homebrew/include/SDL2/SDL_version.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__utility/swap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/locale.h:
@@ -2160,6 +2159,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/is_signed_integer.h:
 
+/opt/homebrew/include/SDL2/SDL_loadso.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/is_referenceable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/is_reference_wrapper.h:
@@ -2234,6 +2235,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/is_constructible.h:
 
+/opt/homebrew/include/SDL2/SDL_gamecontroller.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/stdio.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/add_cv.h:
@@ -2306,15 +2309,11 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/add_lvalue_reference.h:
 
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_shape.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/is_const.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/add_const.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__tuple_dir/tuple_types.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_config_macosx.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/unwrap_iter.h:
 
@@ -2323,8 +2322,6 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/xlocale/_time.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__tuple_dir/tuple_like.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_mouse.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__tuple_dir/tuple_indices.h:
 
@@ -2354,8 +2351,6 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__ranges/view_interface.h:
 
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_config.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/ranges_unique_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__bit/countl.h:
@@ -2379,6 +2374,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__ranges/subrange.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/time.h:
+
+/opt/homebrew/include/SDL2/SDL_mutex.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__mutex_base:
 
@@ -2442,6 +2439,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__locale:
 
+/opt/homebrew/include/SDL2/SDL_power.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/sys/_types/_mbstate_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__iterator/size.h:
@@ -2453,6 +2452,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__iterator/ostream_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h:
+
+/opt/homebrew/include/SDL2/close_code.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__iterator/mergeable.h:
 
@@ -2542,6 +2543,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/ranges_binary_search.h:
 
+/opt/homebrew/include/SDL2/SDL_filesystem.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__functional/bind.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__functional/binary_negate.h:
@@ -2595,8 +2598,6 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/ranges_set_union.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__functional/bind_front.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_touch.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__concepts/totally_ordered.h:
 
@@ -2668,8 +2669,6 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__compare/synth_three_way.h:
 
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_rect.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/machine/_mcontext.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/sys/_types/_uintptr_t.h:
@@ -2712,6 +2711,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__chrono/steady_clock.h:
 
+/opt/homebrew/include/SDL2/SDL_keyboard.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__chrono/statically_widen.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__chrono/monthday.h:
@@ -2721,6 +2722,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__fwd/get.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__memory_resource/polymorphic_allocator.h:
+
+/opt/homebrew/include/SDL2/SDL_rect.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__chrono/month_weekday.h:
 
@@ -2766,8 +2769,6 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__iterator/projected.h:
 
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_surface.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__bit/popcount.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__bit/has_single_bit.h:
@@ -2784,8 +2785,6 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__bit/bit_cast.h:
 
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_cpuinfo.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/remove_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__ranges/data.h:
@@ -2796,8 +2795,6 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__undef_macros:
 
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_keycode.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__chrono/year_month_weekday.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/sys/_types/_ino64_t.h:
@@ -2807,6 +2804,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__utility/move.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/swap_ranges.h:
+
+/opt/homebrew/include/SDL2/SDL_events.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/stable_sort.h:
 
@@ -3040,9 +3039,9 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/pop_heap.h:
 
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_atomic.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/ranges_is_sorted_until.h:
+
+/opt/homebrew/include/SDL2/SDL_joystick.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/ranges_is_heap.h:
 
@@ -3111,10 +3110,6 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/ranges_transform.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__variant/monostate.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_video.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_log.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__ranges/empty.h:
 
@@ -3208,6 +3203,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/is_sorted_until.h:
 
+/opt/homebrew/include/SDL2/SDL_stdinc.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/replace_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/remove_reference.h:
@@ -3235,6 +3232,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/maybe_const.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/is_nothrow_assignable.h:
+
+/opt/homebrew/include/SDL2/SDL_render.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__iterator/empty.h:
 
@@ -3266,8 +3265,6 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/_types/_uint8_t.h:
 
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_haptic.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__functional/is_transparent.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/fill.h:
@@ -3275,6 +3272,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/equal.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/for_each_n.h:
+
+/opt/homebrew/include/SDL2/SDL_metal.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__iterator/reverse_iterator.h:
 
@@ -3302,6 +3301,8 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/clamp.h:
 
+/opt/homebrew/include/SDL2/SDL_guid.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/arm/limits.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/ranges_sort_heap.h:
@@ -3317,8 +3318,6 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/_types.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__functional/boyer_moore_searcher.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/close_code.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/in_in_out_result.h:
 
@@ -3349,8 +3348,6 @@ CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o: /Users/domenic/Documents/C++/
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/is_trivially_copyable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/is_arithmetic.h:
-
-/Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_filesystem.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/sys/_types/_null.h:
 

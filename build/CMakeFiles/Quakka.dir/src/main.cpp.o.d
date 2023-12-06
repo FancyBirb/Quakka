@@ -791,16 +791,14 @@ CMakeFiles/Quakka.dir/src/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/cstdarg \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_main.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_stdinc.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_config.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_platform.h \
+  /opt/homebrew/include/SDL2/SDL.h /opt/homebrew/include/SDL2/SDL_main.h \
+  /opt/homebrew/include/SDL2/SDL_stdinc.h \
+  /opt/homebrew/include/SDL2/SDL_config.h \
+  /opt/homebrew/include/SDL2/SDL_platform.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/AvailabilityMacros.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/TargetConditionals.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/begin_code.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/close_code.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_config_macosx.h \
+  /opt/homebrew/include/SDL2/begin_code.h \
+  /opt/homebrew/include/SDL2/close_code.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/inttypes.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/inttypes.h \
@@ -808,51 +806,51 @@ CMakeFiles/Quakka.dir/src/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/float.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_assert.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_atomic.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_audio.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_error.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_endian.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_mutex.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_thread.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_rwops.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_clipboard.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_cpuinfo.h \
+  /opt/homebrew/include/SDL2/SDL_assert.h \
+  /opt/homebrew/include/SDL2/SDL_atomic.h \
+  /opt/homebrew/include/SDL2/SDL_audio.h \
+  /opt/homebrew/include/SDL2/SDL_error.h \
+  /opt/homebrew/include/SDL2/SDL_endian.h \
+  /opt/homebrew/include/SDL2/SDL_mutex.h \
+  /opt/homebrew/include/SDL2/SDL_thread.h \
+  /opt/homebrew/include/SDL2/SDL_rwops.h \
+  /opt/homebrew/include/SDL2/SDL_clipboard.h \
+  /opt/homebrew/include/SDL2/SDL_cpuinfo.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/arm_neon.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/arm_bf16.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_events.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_video.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_pixels.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_rect.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_surface.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_blendmode.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_keyboard.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_keycode.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_scancode.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_mouse.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_joystick.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_guid.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_gamecontroller.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_sensor.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_quit.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_gesture.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_touch.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_filesystem.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_haptic.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_hidapi.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_hints.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_loadso.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_log.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_messagebox.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_metal.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_power.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_render.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_shape.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_system.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_timer.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_version.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_locale.h \
-  /Users/domenic/Documents/C++/Vulkan/Quakka/lib/SDL/include/SDL_misc.h \
+  /opt/homebrew/include/SDL2/SDL_events.h \
+  /opt/homebrew/include/SDL2/SDL_video.h \
+  /opt/homebrew/include/SDL2/SDL_pixels.h \
+  /opt/homebrew/include/SDL2/SDL_rect.h \
+  /opt/homebrew/include/SDL2/SDL_surface.h \
+  /opt/homebrew/include/SDL2/SDL_blendmode.h \
+  /opt/homebrew/include/SDL2/SDL_keyboard.h \
+  /opt/homebrew/include/SDL2/SDL_keycode.h \
+  /opt/homebrew/include/SDL2/SDL_scancode.h \
+  /opt/homebrew/include/SDL2/SDL_mouse.h \
+  /opt/homebrew/include/SDL2/SDL_joystick.h \
+  /opt/homebrew/include/SDL2/SDL_guid.h \
+  /opt/homebrew/include/SDL2/SDL_gamecontroller.h \
+  /opt/homebrew/include/SDL2/SDL_sensor.h \
+  /opt/homebrew/include/SDL2/SDL_quit.h \
+  /opt/homebrew/include/SDL2/SDL_gesture.h \
+  /opt/homebrew/include/SDL2/SDL_touch.h \
+  /opt/homebrew/include/SDL2/SDL_filesystem.h \
+  /opt/homebrew/include/SDL2/SDL_haptic.h \
+  /opt/homebrew/include/SDL2/SDL_hidapi.h \
+  /opt/homebrew/include/SDL2/SDL_hints.h \
+  /opt/homebrew/include/SDL2/SDL_loadso.h \
+  /opt/homebrew/include/SDL2/SDL_log.h \
+  /opt/homebrew/include/SDL2/SDL_messagebox.h \
+  /opt/homebrew/include/SDL2/SDL_metal.h \
+  /opt/homebrew/include/SDL2/SDL_power.h \
+  /opt/homebrew/include/SDL2/SDL_render.h \
+  /opt/homebrew/include/SDL2/SDL_shape.h \
+  /opt/homebrew/include/SDL2/SDL_system.h \
+  /opt/homebrew/include/SDL2/SDL_timer.h \
+  /opt/homebrew/include/SDL2/SDL_version.h \
+  /opt/homebrew/include/SDL2/SDL_locale.h \
+  /opt/homebrew/include/SDL2/SDL_misc.h \
   /Users/domenic/Documents/C++/Vulkan/Quakka/src/vk_base/vk_base.h \
   /usr/local/include/vulkan/vulkan.h \
   /usr/local/include/vulkan/vk_platform.h \

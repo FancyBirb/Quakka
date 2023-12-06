@@ -37,7 +37,7 @@ int main() {
         }
     }
 
-    //VulkanContext* context = initVulkan();
+    VulkanContext* context = initVulkan();
 
 
 
