@@ -1,4 +1,4 @@
-# Install script for directory: /Users/domenic/Documents/C++/Vulkan/Quakka
+# Install script for directory: /Users/domenic/Documents/Cpp/Quakka
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/domenic/Documents/C++/Vulkan/Quakka/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/domenic/Documents/Cpp/Quakka/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

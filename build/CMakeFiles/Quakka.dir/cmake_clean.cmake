@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/domenic/Documents/C++/Vulkan/Quakka/bin/Quakka"
-  "/Users/domenic/Documents/C++/Vulkan/Quakka/bin/Quakka.pdb"
+  "/Users/domenic/Documents/Cpp/Quakka/bin/Quakka"
+  "/Users/domenic/Documents/Cpp/Quakka/bin/Quakka.pdb"
   "CMakeFiles/Quakka.dir/src/main.cpp.o"
   "CMakeFiles/Quakka.dir/src/main.cpp.o.d"
   "CMakeFiles/Quakka.dir/src/vk_base/vk_device.cpp.o"

@@ -8,6 +8,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${PROJECT_SOURCE_DIR}/bin")
 set(SOURCE_FILES src/main.cpp src/vk_base/vk_device.cpp)
 #find SDL2
 #add_subdirectory(lib/SDL)
+ 
 find_library(SDL2_LIBRARY NAME SDL2)
 add_executable(Quakka ${SOURCE_FILES})
 include_directories(Quakka PPRIVATE /opt/homebrew/include/SDL2)
